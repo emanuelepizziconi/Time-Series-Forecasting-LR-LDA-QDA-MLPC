@@ -13,7 +13,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis as QDA
 import yfinance as yf
-import random
 from pandas.tseries.offsets import BDay
 
 
