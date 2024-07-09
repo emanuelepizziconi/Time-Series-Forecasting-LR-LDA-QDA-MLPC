@@ -1,0 +1,6 @@
+py -m pip install numpy
+py -m pip install pandas
+python -m venv sklearn-env
+py -m sklearn-env\Scripts\activate
+py -m pip install -U scikit-learn
+py -m pip install yfinance --upgrade --no-cache-dir
